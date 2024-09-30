@@ -11,8 +11,8 @@ I am a passionate **Junior Data Engineer** with a strong foundation in data anal
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6C757D?style=flat&logo=project-diagram&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=microsoft-sql-server&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 🌍 Languages
@@ -27,17 +27,17 @@ Generation Hong Kong
 Gained experience in designing automated data pipelines, data validation, and quality assurance.
 
 ## 📂 Projects
-### Sephora Product Recommendation and Analysis System
+### [Sephora Product Recommendation and Analysis System](https://github.com/ShirleyIP/Sephora_Product_Recommendation_and_Analysis_System)
 - Developed a Python application featuring two GUIs: a Recommendation App and an Analysis App for beauty products.
 - Implemented dynamic product filtering logic using Pandas to deliver personalized recommendations based on user input.
 - Created visualizations with Matplotlib to enhance data insights and support comprehensive analysis of product categories and trends.
 
-### Weather Data Fetching and Analysis Pipeline 
+### [Weather Data Fetching and Analysis Pipeline ](https://github.com/ShirleyIP/Weather_Data_Fetching_and_Analysis_Pipeline)
 - Developed a data pipeline to fetch, analyze, and visualize weather data from the OpenWeather API.
 - Designed a robust ETL process to automate data insertion into a structured database.
 - Created analytical functions to generate insights on temperature and humidity, including visualizations to highlight trends.
 
-### Inventory Management System 
+### [Inventory Management System ](https://github.com/ShirleyIP/Inventory_Management_System)
 - Developed a system for managing products and inventory.
 - Designed a relational database schema for efficient data retrieval.
 - Implemented automated processes for inventory updates, reducing manual errors.
