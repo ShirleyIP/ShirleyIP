@@ -1,16 +1,19 @@
 # Hi there, I'm Shirley IP Hau Lai 👋
 
 ## 👩‍💻 About Me
-I am a passionate Junior Data Engineer with a strong foundation in data analytics and a commitment to continuous learning. My background in Interior Architecture and Design has equipped me with a unique perspective on problem-solving and design thinking. I am eager to contribute to impactful data-driven projects and collaborate in dynamic teams.
+I am a passionate **Junior Data Engineer** with a strong foundation in data analytics and a commitment to continuous learning. My background in **Interior Architecture and Design** has equipped me with a unique perspective on problem-solving and design thinking. I am eager to contribute to impactful data-driven projects and collaborate in dynamic teams.
 
 ## 🛠️ Skills
-- **Data Management**
-- **ETL Development & Optimization**
-- **Data Pipeline Development**
-- **Data Quality Assurance**
-- **Data Modeling**
-- **Cloud Technologies:** Azure SQL database, VM, Web app service
-- **Programming Languages:** Python, SQL, HTML/CSS
+![Data Management](https://img.shields.io/badge/Data%20Management-007ACC?style=flat&logo=database&logoColor=white) 
+![ETL](https://img.shields.io/badge/ETL-FFCC00?style=flat&logo=cloudsmith&logoColor=black) 
+![Data Pipeline](https://img.shields.io/badge/Data%20Pipeline-28A745?style=flat&logo=git&logoColor=white) 
+![Data Quality](https://img.shields.io/badge/Data%20Quality%20Assurance-17A2B8?style=flat&logo=check-circle&logoColor=white) 
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6C757D?style=flat&logo=project-diagram&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) 
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 🌍 Languages
 - Cantonese
