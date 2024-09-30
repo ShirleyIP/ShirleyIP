@@ -10,9 +10,11 @@ I am a passionate **Junior Data Engineer** with a strong foundation in data anal
 ![Data Quality](https://img.shields.io/badge/Data%20Quality%20Assurance-17A2B8?style=flat&logo=check-circle&logoColor=white) 
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6C757D?style=flat&logo=project-diagram&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=microsoft-sql-server&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black) 
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Azure Virtual Machine](https://img.shields.io/badge/Azure%20Virtual%20Machine-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Web App Service](https://img.shields.io/badge/Azure%20Web%20App%20Service-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 🌍 Languages
@@ -44,8 +46,13 @@ Gained experience in designing automated data pipelines, data validation, and qu
 
 ## 🎓 Education
 **BA(Hons) Arts in Interior Architecture and Design**  
-University of Lincoln  
-*Oct 2021 - Jul 2022*
+*University of Lincoln*  
+*Oct 2021 - Jul 2022*  
+
+**Higher Diploma in Interior Design**  
+*Hong Kong Design Institute (HKDI)*  
+*Sep 2018 - Aug 2020* 
+
 
 ## 🏆 Achievements
 - **Architecture, Interior Design, and Landscape Architecture Annual Exhibition 2022** - Achievement Award in Interior Design
