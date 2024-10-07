@@ -44,30 +44,6 @@ Gained experience in designing automated data pipelines, data validation, and qu
 - Designed a relational database schema for efficient data retrieval.
 - Implemented automated processes for inventory updates, reducing manual errors.
 
-## 💼 Work Experience
-**Assistant Interior Designer**  
-*Design 2 (HK) Limited*  
-*Dec 2022 - May 2023*  
-- Researched Ceiling Systems: Evaluated over 10 suspended ceiling options to find the best fit for project requirements.
-- Collaboration: Worked with MEP consultants and suppliers to align on specifications, optimizing procurement and project efficiency.
-- Design Solutions: Delivered design solutions that met site conditions and client requests, incorporating stakeholder feedback for improved functionality and aesthetics.
-
-## 🎓 Education
-**BA(Hons) Arts in Interior Architecture and Design**  
-*University of Lincoln*  
-*Oct 2021 - Jul 2022*  
-
-**Higher Diploma in Interior Design**  
-*Hong Kong Design Institute (HKDI)*  
-*Sep 2018 - Aug 2020* 
-
-## 🏆 Achievements
-- **Architecture, Interior Design, and Landscape Architecture Annual Exhibition 2022** - Achievement Award in Interior Design
-- **Emerging Design Talents 2022** - Top 5 Projects
-- **30th Asia Pacific Interior Design Awards 2022** - Participant
-
-## 🎉 Fun Fact
-I have a creative background in interior design, which enhances my approach to data analytics and problem-solving in tech!
 
 ---
 Feel free to check out my repositories and connect with me for collaboration or opportunities!
