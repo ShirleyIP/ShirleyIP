@@ -18,15 +18,15 @@ I am a passionate **Junior Data Engineer** with a strong foundation in data anal
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 🌍 Languages
-- Cantonese
-- Mandarin
-- English
+- Cantonese (native)
+- Mandarin (native)
+- English (working proficiency)
 
 ## 📚 Courses
 **Junior Data Engineer Training Program**  
 Generation Hong Kong  
 *Aug 2024 - Oct 2024*  
-Gained experience in designing automated data pipelines, data validation, and quality assurance.
+Designed automated data pipelines and implemented data validation, focusing on dynamic filtering and data integrity.
 
 ## 📂 Projects
 ### [Sephora Product Recommendation and Analysis System](https://github.com/ShirleyIP/Sephora_Product_Recommendation_and_Analysis_System)
